@@ -1,0 +1,10 @@
+drop 
+4right 
+drop 
+levelup 
+levelup 
+drop 
+5clockwise 
+drop
+leveldown
+drop

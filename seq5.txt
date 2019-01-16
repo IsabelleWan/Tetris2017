@@ -1,0 +1,12 @@
+drop
+2levelup
+2right
+drop
+leveldown
+9right
+drop
+restart
+drop
+right
+drop
+
